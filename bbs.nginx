@@ -4,3 +4,4 @@ server {
         proxy_pass http://localhost:2001;
     }
 }
+
